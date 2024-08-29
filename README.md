@@ -8,4 +8,4 @@ A hackathon I did in April of 2024 where we focus on trying to find solutions to
 [ZipCode Conversion](https://colab.research.google.com/drive/1HxD4xdX1Dt8SHFlOqS_D6WkgE2bzoE-f?usp=sharing 'ZipCode Conversion')
 
 <br>
-Note: I advise you open the colab links to view the project, but I provided the .ipynb files if that is what you prefer.
+Note: I think opening the colab links to view the project is much easier and pretty much instantaneous, but I provided the .ipynb files if necessary.
